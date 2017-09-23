@@ -1,0 +1,39 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  accomodates: 2
+  bathrooms: 1
+  bedtype: "Real bed"
+  bedrooms: 1
+  beds: 1
+  property: "Room"
+  room: 1
+  detailed: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  accomodates: 2
+  bathrooms: 1
+  bed: "Pull out couch"
+  bedrooms: 1
+  beds: 1
+  property: "Apartment"
+  room: 2
+  detailed: "This 1-bedroom apartment can welcome 2 people. No real bed, but there is a pull out couch that is very comfy!"
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  accomodates: 4
+  bathrooms: 2
+  bed: "King size bed"
+  bedrooms: 2
+  beds: 3
+  property: "Big apartment"
+  room: 3
+  detailed: "This is a big appartment that can accomodate 4 people in 2 bedrooms with 2 beds and a pull out couch. There are also 2 bathrooms!"
